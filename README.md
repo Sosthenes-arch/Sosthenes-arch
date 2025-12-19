@@ -10,8 +10,10 @@
     <a href="https://linkedin.com/in/uche-u-327735190" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:uche@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://ucheugochukwu.site/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
     </a>
   </p>
 </div>
@@ -38,29 +40,6 @@ I am a dedicated **Cloud, Platform & IT Infrastructure Engineer** with hands-on 
 | **Tools & DevOps** | Git, GitHub, VS Code |
 | **Databases** | DynamoDB, RDS |
 
-## 🚀 Featured Projects
-
-### [Automated AWS Receipt Processing System](https://github.com/Sosthenes-arch/Automated-AWS-Receipt-Processing-System)
-A serverless workflow to automatically process receipts uploaded to S3.
-- **Tech**: Lambda, Textract, DynamoDB, SES.
-- **Key Features**: Auto-extraction of data, email notifications, serverless scaling.
-
-### [Data Pipeline for CSV Processing](https://github.com/Sosthenes-arch/Data-Pipeline-for-Processing-CSV-Files-Using-S3-Lambda-Glue-and-QuickSight)
-Built a serverless data pipeline for processing and visualizing CSV files.
-- **Tech**: S3, Lambda, Glue, QuickSight.
-
-### [Event Announcement System](https://github.com/Sosthenes-arch/Event-Announcement-System-using-SNS-Lambda-and-API-Gateway)
-Developed an event notification system for efficient broadcasting.
-- **Tech**: SNS, Lambda, API Gateway.
-
-### [AWS Skincare Recommender](https://github.com/Sosthenes-arch/aws-skincare-recommender)
-An AI-powered skincare recommendation engine hosted on AWS.
-- **Tech**: AWS, AI/ML, Python.
-
-### [Petrophysics Calculator](https://github.com/Sosthenes-arch/Petrophysics-Calculator-Static-Web-App-Hosted-on-AWS-S3)
-Static web application for petrophysics calculations.
-- **Tech**: S3 Static Hosting, JavaScript.
-
 ---
 
 ## 📈 GitHub Stats
@@ -73,6 +52,3 @@ Static web application for petrophysics calculations.
 
 ---
 
-<p align="center">
-  Generated with ❤️ by Antenna
-</p>
